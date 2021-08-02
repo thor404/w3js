@@ -109,9 +109,9 @@
 
 // var 
 
-var a = 12
-var b = 22
-var sum = b - a
-console.log(sum)
+// var a = 12
+// var b = 22
+// var sum = b - a
+// console.log(sum)
 
 
